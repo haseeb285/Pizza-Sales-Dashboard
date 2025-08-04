@@ -1,6 +1,11 @@
 # Pizza-Sales-Dashboard
 Interactive sales dashboards using Excel, Tableau, and Power BI
 # 🍕 Pizza Sales Dashboard
+![SQL](https://img.shields.io/badge/SQL-Queries-blue)
+![Excel](https://img.shields.io/badge/Excel-Dashboard-green)
+![PowerBI](https://img.shields.io/badge/PowerBI-Interactive%20Dashboard-yellow)
+![Tableau](https://img.shields.io/badge/Tableau-Visualizations-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 An end-to-end **Pizza Sales Analysis Project** built using **SQL, Excel, Tableau, and Power BI** to deliver actionable business insights.
 
